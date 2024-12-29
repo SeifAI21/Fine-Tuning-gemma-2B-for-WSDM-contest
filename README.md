@@ -17,7 +17,7 @@ Self-Enhancement Bias: Favoring self-promoting responses.
 
 Participants were encouraged to explore diverse machine-learning techniques to predict user preferences effectively, contributing to the development of more user-friendly AI conversation systems.
 
-Challenges Faced and Solutions
+#Challenges Faced and Solutions
 
 1. Inference Notebook Without Internet Access
 
